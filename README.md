@@ -1,5 +1,6 @@
 # My Git Project
 >My code for the get project`
+my scary merge conflice demo
 
 <<<<<<< HEAD
 
